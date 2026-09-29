@@ -75,3 +75,10 @@ Dữ liệu thô ban đầu ở cấp độ **Page-level** (mỗi dòng đại d
 
 ---
 *Dự án được thực hiện phục vụ cho mục đích nghiên cứu và phân tích dữ liệu E-Commerce.*
+
+---
+### 📹 Dashboard Demo Record
+
+Xem video ghi lại quá trình thao tác và tương tác chi tiết trên Dashboard:
+
+🎬 **[Click vào đây để xem Video Demo Dashboard trên Google Drive](https://drive.google.com/file/d/1TkBHkcBqtrOeMz3GoWtiDdYZ2pGr6AEw/view?usp=sharing)**
