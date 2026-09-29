@@ -80,5 +80,7 @@ Dữ liệu thô ban đầu ở cấp độ **Page-level** (mỗi dòng đại d
 ### 📹 Dashboard Demo Record
 
 Xem video ghi lại quá trình thao tác và tương tác chi tiết trên Dashboard:
+<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/e0bd558b-8889-4730-84b3-bc449e743222" />
 
-🎬 **[Click vào đây để xem Video Demo Dashboard trên Google Drive](https://drive.google.com/file/d/1TkBHkcBqtrOeMz3GoWtiDdYZ2pGr6AEw/view?usp=sharing)**
+
+🎬 **[Click vào đây để xem Video Demo Dashboard trên Google Drive]([https://drive.google.com/file/d/1TkBHkcBqtrOeMz3GoWtiDdYZ2pGr6AEw/view?usp=sharing](https://drive.google.com/file/d/1xBc8fGxk9-NO08KL8BwuMNx44NvNx07Y/view?usp=sharing))**
